@@ -2,5 +2,6 @@
   "name": "pg-native",
   "version": "3.0.0",
   "private": true,
-  "main": "index.js"
+  "main": "index.js",
+  "packageManager": "yarn@3.1.1"
 }
