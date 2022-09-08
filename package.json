@@ -1,7 +1,7 @@
 {
   "name": "pg-native",
   "version": "3.0.0",
-  "private": true,
+  "license": "AGPL-3.0-or-later",
   "main": "index.js",
   "packageManager": "yarn@3.2.3"
 }
